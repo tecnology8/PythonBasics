@@ -1,0 +1,27 @@
+myStri = "Ruddy"
+
+print("My Name is " + myStri)
+print(f"My Name is {myStri}")
+print("My Name is {0}".format(myStri))
+
+# print(myStri.upper())
+# print(myStri.lower())
+# print(myStri.swapcase())
+# print(myStri.capitalize())
+# print(myStri.replace('hello','bye'))
+# print(myStri.count('l'))
+# print(myStri.count('o'))
+# print(myStri.startswith("hello"))
+# print(myStri.endswith("world"))
+# print(myStri.split(','))
+# print(myStri.find('h'))
+# print(len(myStri))
+# print(myStri.index('o'))
+# print(myStri.isnumeric())
+# print(myStri[4])
+# print(myStri[3])
+# print(myStri[2])
+# print(myStri[1])
+# print(myStri[-2])
+# print(myStri[-4])
+
