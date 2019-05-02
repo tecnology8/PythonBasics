@@ -15,3 +15,9 @@
 * Modules
 * Dictionaries
 * Functions
+
+* Resources 
+* Python Download -  https://www.python.org/ 
+* Find, install and publish Python packages with the Python Package Index - https://pypi.org/
+
+
